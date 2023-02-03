@@ -14,7 +14,7 @@ consolidate items in .css so multipule classes can have the same designs.
 
 
 ## Installation
-N/A = website
+N/A 
 
 ## Usage
 Website and Research
