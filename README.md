@@ -1,5 +1,14 @@
 # AccessibilityChallenge
 
+## Table of Contents
+[Description](#description)<br>
+[Usage](#usage)<br>
+[Screenshot](#screenshot)<br>
+[Access](#access)<br>
+[Credits](#credits)<br>
+[Roadmap](#roadmap)<br>
+[License](#license)
+
 ## Description
 
 A marketing agency
@@ -13,11 +22,14 @@ So that there own site is optimized for search engines
 consolidate items in .css so multipule classes can have the same designs. 
 
 
-## Installation
-N/A 
-
 ## Usage
 Website and Research
+
+## Screenshot
+![Screenshot](/assets/images/Screen.PNG)
+
+## Access
+ [Github](https://beattycharles.github.io/AsscibiltyChallenge/)
 
 ## Credits
 Special Thanks to:
